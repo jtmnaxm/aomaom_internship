@@ -1,0 +1,6 @@
+names:
+  0: cat
+  1: dog
+path: /home/aom/aomaom_internship/datasets
+train: images
+val: images
